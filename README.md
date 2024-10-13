@@ -16,7 +16,7 @@ Instructions on how to install and set up the project.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/calculateTotalTarget.git
+git clone https://github.com/A-jabar/node.js-assignment
 
 # Navigate to the project directory
 cd calculateTotalTarget
